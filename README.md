@@ -1,4 +1,4 @@
-# ECSE 321 Project Group 11
+# Art Gallery 
 
 ## Project Overview
 We are developing a website and an Android app to facilitate the artwork selling process of an artgallery. In this system,
