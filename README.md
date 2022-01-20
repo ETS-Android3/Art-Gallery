@@ -8,7 +8,7 @@ requires requirements engineering, software development, validation of the syste
 delivery process.
 
 ## Running the Project
-The backend is hosted at https://artgallery-11.herokuapp.com/. The backend can be run locally by cloning this repository, and running the artgallery-Backend repository as a Spring Boot App. Using a terminal/command line from the root of the project, one can instead use "gradle run" to run the project locally. In that case, the application will be hosted at http://localhost:8080/. To use the application, see the API documentation [here](waiting to be written)
+The backend is hosted at https://artgallery-11.herokuapp.com/. The backend can be run locally by cloning this repository, and running the artgallery-Backend repository as a Spring Boot App. Using a terminal/command line from the root of the project, one can instead use "gradle run" to run the project locally. In that case, the application will be hosted at http://localhost:8080/. 
 
 The frontend is hosted at https://artgallery-frontend-1.herokuapp.com/.
 
